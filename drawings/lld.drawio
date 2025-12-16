@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="-NWIsCSeFLI6T2jvx8_j">
-    <mxGraphModel>
+    <mxGraphModel dx="1653" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#E6E6E6;strokeColor=#6c8ebf;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="236.36" width="745" x="65" y="103.64" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="GHEU (PEWS)" vertex="1">
+          <mxGeometry height="43.63636363636363" width="122" x="65" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Repository" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="modern-workplace-eefe08-pe-ws" vertex="1">
+          <mxGeometry height="60" width="250" x="80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Teams" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Team" vertex="1">
+          <mxGeometry height="60" width="250" x="530" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Team" vertex="1">
+          <mxGeometry height="60" width="250" x="530" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Team" vertex="1">
+          <mxGeometry height="60" width="250" x="530" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="743" x="67" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="TFC" vertex="1">
+          <mxGeometry height="43.63636363636363" width="122" x="67" y="386.36" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Workspaces" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="1AUEd84biJ-G_RNQ9Zk0-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="modern-workplace-eefe08-pe-ws" vertex="1">
+          <mxGeometry height="60" width="250" x="80" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
