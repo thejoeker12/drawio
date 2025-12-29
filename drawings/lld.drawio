@@ -1,9 +1,210 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="-NWIsCSeFLI6T2jvx8_j">
-    <mxGraphModel dx="2066" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3146" dy="2378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-12" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NUPlAsPdmXRxDaonCTPI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Repo&lt;div&gt;internal-developer-platform/lcp-mwp-devices-jamfpro&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="330" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-9" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Staging Configuration Deployment Workflow" vertex="1">
+          <mxGeometry height="30" width="330" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-21" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-27" connectable="0" parent="NUPlAsPdmXRxDaonCTPI-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Make Changes" vertex="1">
+          <mxGeometry relative="1" x="0.1585" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Branch Created" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-18" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" value="No naming convention in place at the moment" vertex="1">
+          <mxGeometry height="80" width="120" x="610" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-19" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;dashed=1;" target="NUPlAsPdmXRxDaonCTPI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-28" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="955" y="290" />
+              <mxPoint x="820" y="290" />
+            </Array>
+            <mxPoint x="820" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-34" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-123" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-124" connectable="0" parent="NUPlAsPdmXRxDaonCTPI-123" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.219" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Changes made?" vertex="1">
+          <mxGeometry height="120" width="130" x="890" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-24" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NUPlAsPdmXRxDaonCTPI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="-210" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Midpoint Stop (This config is invalid or not needed)" vertex="1">
+          <mxGeometry height="100" width="155" x="877.5" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-63" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Open Pull Request&lt;br&gt;Target: main" vertex="1">
+          <mxGeometry height="60" width="120" x="1120" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-65" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1735" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-66" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1735" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-67" connectable="0" parent="NUPlAsPdmXRxDaonCTPI-66" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.8297" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-74" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-46" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Did all checks pass?" vertex="1">
+          <mxGeometry height="140" width="190" x="1640" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-60" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Amend Branch &amp;amp; Pull Request" vertex="1">
+          <mxGeometry height="60" width="120" x="1390" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-122" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Close Pull Request&lt;br&gt;(Invalid Config)" vertex="1">
+          <mxGeometry height="60" width="120" x="1390" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-64" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NUPlAsPdmXRxDaonCTPI-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-104" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="50" />
+              <mxPoint x="865" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-62" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Automated Pull Request Checks" vertex="1">
+          <mxGeometry height="60" width="120" x="1390" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-73" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2140" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-72" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Pull Request Approvals" vertex="1">
+          <mxGeometry height="60" width="120" x="1920" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-80" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="360" />
+            </Array>
+            <mxPoint x="1740" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-81" connectable="0" parent="NUPlAsPdmXRxDaonCTPI-80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.8601" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-83" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-75" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Pull Request Approved?" vertex="1">
+          <mxGeometry height="150" width="200" x="2140" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Merge Pull Request" vertex="1">
+          <mxGeometry height="60" width="120" x="2510" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-105" connectable="0" parent="1" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="570" width="610" x="560" y="-740" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-84" parent="NUPlAsPdmXRxDaonCTPI-105" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="570" width="610" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-94" edge="1" parent="NUPlAsPdmXRxDaonCTPI-105" source="NUPlAsPdmXRxDaonCTPI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NUPlAsPdmXRxDaonCTPI-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-85" parent="NUPlAsPdmXRxDaonCTPI-105" style="ellipse;whiteSpace=wrap;html=1;" value="Triggered" vertex="1">
+          <mxGeometry height="50" width="125" x="242.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-86" parent="NUPlAsPdmXRxDaonCTPI-105" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PR Name Check" vertex="1">
+          <mxGeometry height="30" width="165" x="222.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-97" edge="1" parent="NUPlAsPdmXRxDaonCTPI-105" source="NUPlAsPdmXRxDaonCTPI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NUPlAsPdmXRxDaonCTPI-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-100" connectable="0" parent="NUPlAsPdmXRxDaonCTPI-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="0.0654" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-87" parent="NUPlAsPdmXRxDaonCTPI-105" style="rhombus;whiteSpace=wrap;html=1;" value="Does PR Name match XXXX-0000?" vertex="1">
+          <mxGeometry height="130" width="147" x="231.5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-88" parent="NUPlAsPdmXRxDaonCTPI-105" style="ellipse;whiteSpace=wrap;html=1;" value="Pass" vertex="1">
+          <mxGeometry height="100" width="182" x="49.5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-89" parent="NUPlAsPdmXRxDaonCTPI-105" style="ellipse;whiteSpace=wrap;html=1;" value="Fail" vertex="1">
+          <mxGeometry height="100" width="182" x="378.5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-98" edge="1" parent="NUPlAsPdmXRxDaonCTPI-105" source="NUPlAsPdmXRxDaonCTPI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NUPlAsPdmXRxDaonCTPI-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-99" connectable="0" parent="NUPlAsPdmXRxDaonCTPI-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.0374" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="570" width="560" x="1240" y="-740" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Terraform FMT" vertex="1">
+          <mxGeometry height="30" width="60" x="1490" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-125" edge="1" parent="1" source="NUPlAsPdmXRxDaonCTPI-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NUPlAsPdmXRxDaonCTPI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUPlAsPdmXRxDaonCTPI-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Delete Branch" vertex="1">
+          <mxGeometry height="60" width="120" x="895" y="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
